@@ -1,0 +1,5 @@
+print("Welcome to Team Name Generator!")
+city = input("Which city you grew up in?:")
+pet = input("Enter your pet's name (or your any favourite term):")
+print("Your team name should be:" + pet +"-"+city)
+input()
